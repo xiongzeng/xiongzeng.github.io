@@ -76,7 +76,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: xiongzeng/xio.github.io
+repository: xiongzeng/xiongzeng.github.io
 
 # ---------------- #
 #      Comments    #
