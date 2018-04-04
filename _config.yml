@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://xiongzeng.github.io
+url: xiongzeng.github.io
 date_format: "ordinal"
 title: 抽象的人生
 subtitle: "思考改变人生"
@@ -76,7 +76,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-#repository: xiongzeng/xiongzeng.github.io
+repository: xiongzeng/xiongzeng.github.io
 
 # ---------------- #
 #      Comments    #
