@@ -63,13 +63,13 @@ lsi: false
 quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
-gems install:
-    - jekyll-github-metadata
-    - rouge
+gems install: [jekyll-github-metadata,jekyll-github-metadata,jekyll-paginate]
+#    - jekyll-github-metadata
+#    - rouge
 #     - jekyll-html-pipeline
-    - jekyll-sitemap
-    - jekyll-feed
-    - jemoji
+#    - jekyll-sitemap
+#    - jekyll-feed
+#    - jemoji
 #    - jekyll-mentions
 collections:
     wiki:
