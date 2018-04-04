@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Zeng Xiong
 organization: zkh360.com
-#organization_url: http://www.zkh360.com
+organization_url: http://www.zkh360.com
 github_username: XiongZeng
 location: Shanghai, China
 email: zengzihai@gmail.com
@@ -76,7 +76,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: xiongzeng/xiongzeng.github.io
 
 # ---------------- #
 #      Comments    #
